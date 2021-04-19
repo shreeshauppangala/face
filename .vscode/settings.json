@@ -1,0 +1,7 @@
+{
+    "jshint.enable": false,
+    "tslint.enable": false,
+    "tslint.ignoreDefinitionFiles": false,
+    "eslint.lintTask.enable": true,
+    "eslint.packageManager": "yarn"
+}
